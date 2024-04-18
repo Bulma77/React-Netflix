@@ -16,7 +16,7 @@ Integrated development environment used: Visual Studio Code.
   
 - Initializing the React project with vite.js :
 1. yarn create vite React-Netflix --template react
-2. cd React-Futurama-Front-End
+2. cd React-Netflix
 3. yarn (install dependencies listed in package.json)
 4. yarn dev (project launch)
    
@@ -42,8 +42,8 @@ Integrated development environment used: Visual Studio Code.
 ## Links
 
  deployment of the site on Netlify (https://docs.netlify.com/)
-- To view the site : https://pricilliae-react-futurama-front-end.netlify.app/
-- To view the code : https://github.com/pricilliaEDOU2/React-Futurama-Front-End.
+- To view the site : https://pricilliae-react-netflix.netlify.app/
+- To view the code : https://github.com/pricilliaEDOU2/React-Netflix.git.
 
 
 
